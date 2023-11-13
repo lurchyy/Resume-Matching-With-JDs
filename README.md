@@ -1,15 +1,8 @@
-# Libraries:
-- HuggingFace Datasets
-- HuggingFace Transformer
-- SkLearn
-- Pandas
-- Numpy
-- Seaborn
-- Regex
-- Tika
-- PyPDF2
-- Pytorch
-- Spacy
+# Requirements:
+Install requirements via:
+```bash
+pip install -r requirements.txt
+```
 
 # Kaggle Dataset(Required for Task 1 And Task 3):
 https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset
